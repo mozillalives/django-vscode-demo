@@ -4,10 +4,10 @@ For verifying the issue here https://github.com/Microsoft/vscode-python/issues/1
 
 This issue was reproduced in the following environment.
 
-VS Code version: 1.22.2
-Python Extension version: 2018.3.1
-Python Version: 3.6.4
-OS and version: MacOS 10.13.4
+    VS Code version: 1.22.2
+    Python Extension version: 2018.3.1
+    Python Version: 3.6.4
+    OS and version: MacOS 10.13.4
 
 ## Reproducing
 
